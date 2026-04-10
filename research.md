@@ -24,11 +24,7 @@ Most recently, I've been exploring the impact of migrations into the area that w
 
 ---
 
-## Past Projects
-
-Recent publications
-
-Appel N, Edgar H, Daneshvari Berry S, Hunley K. Error and bias in race and ethnicity descriptions in medical examiner records in New Mexico: Consequences for understanding mortality among Hispanic/Latinos. Forensic Science International: Synergy 7. 2023.
+## Recent publications
 
 Moes E, Willermet C, Hunley K, Ragsdale C, Edgar H. Childhood stress and developmental instability: comparing microscopic enamel defects and cranial fluctuating asymmetry in a colonial Mexican sample. American Journal of Biological Anthropology. 2022 
 
