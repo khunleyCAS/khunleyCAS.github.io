@@ -7,7 +7,7 @@ date: 2024-12-02
 
 # Keith Hunley
 
-My research in genetic anthropology examines the persistence of genetic and linguistic structure within our species, despite the fluid nature of population boundaries and the ephemeral nature of individual groups. My publications have provided insights into the initial dispersal of humans from Africa, the non-existence of biological races, the co-evolution of genes and languages, the impact of colonial migration on ethnogenesis, and the psychosocial and cultural determinants of interest and uptake of genetic testing for skin cancer
+I am a professor of anthopology and an associate dean in the College of Arts and Sciences at the University of New Mexico. As an anthropologist, I study the persistence of genetic and linguistic structure within our species, despite the fluid nature of population boundaries and the ephemeral nature of individual groups. As a teacher, I offer classes in evolutionary anthropology and human genetics. As an administrator, I assist units in social science and interdisciplinary units with curriculum development, faculty hiring, promotion and tenure, graduate student affairs, and academic program reviews.
 
 ---
 
