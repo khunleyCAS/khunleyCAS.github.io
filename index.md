@@ -26,7 +26,7 @@ To add a new card, create a new page and add those fields. To remove a card, del
 {% include nav/card-stack.html cards = essays %}
 
 {% include images/jumbotron.html
-  image-path="/assets/images/backgrounds/pano-1.jpg"
+  image-path="/assets/images/backgrounds/Neandertals-moderns meeting AI.JPG"
   height="50vh"
   box-align="left"
   title="A hike in the Sandias"
