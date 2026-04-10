@@ -16,8 +16,9 @@ The `summary` and `thumbnail` fields in the front matter at the top of this file
 
 ## Research Interests
 
-Write two or three paragraphs describing your research questions, methods, and fields. You don't need to cover everything — aim for something a curious non-specialist can follow. What problem are you working on? Why does it matter? What approaches do you bring to it?
+My research examines the persistence of genetic and linguistic structure within our species, despite the fluid nature of population boundaries and the ephemeral nature of individual groups. My collaborative work has provided insights into the initial dispersal of humans from Africa, the non-existence of biological races, the co-evolution of genes and languages, the impact of colonial migration on ethnogenesis, and the psychosocial and cultural determinants of interest and uptake of genetic testing for skin cancer.
 
+​
 ---
 
 ## Current Projects
