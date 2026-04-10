@@ -24,3 +24,11 @@ To add a new card, create a new page and add those fields. To remove a card, del
 
 {% assign essays = site.pages | where: "homepage", true %}
 {% include nav/card-stack.html cards = essays %}
+
+{% include images/figure.html
+  class="center"
+  width="60%"
+  caption="What a nice view"
+  alt-text="Hiking trails winding through a canyon in the Sandia foothills."
+  image-path="/assets/images/backgrounds/hike-1.jpg"
+%}
