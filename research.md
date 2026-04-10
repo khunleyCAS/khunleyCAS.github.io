@@ -7,21 +7,22 @@ position: 1
 summary: I study human origins and dispersals over the past 2 million years
 thumbnail: assets/images/AA1zUmx0.jpg
 ---
-
-
+{% include images/figure.html
+  image-path="assets/images/Magritte sunset scene in Ice Age Europe, where Neanderthals and modern humans meet.jpeg"
+  class="center"
+  width="40%"
+  caption="AI Generated Image of Neandertals and Modern Humans."
+  alt-text="In the style of Magritte"
+%}
 ## Research Interests
 
 My research examines the persistence of genetic and linguistic structure within our species, despite the fluid nature of population boundaries and the ephemeral nature of individual groups. My collaborative work has provided insights into the initial dispersal of humans from Africa, the non-existence of biological races, the co-evolution of genes and languages, the impact of colonial migration on ethnogenesis, and the psychosocial and cultural determinants of interest and uptake of genetic testing for skin cancer.
 
-​
----
+​---
 
-## Current Projects
-
-### Project Name
+## Recent Projects
 
 Most recently, I've been exploring the impact of migrations into the area that would become New Mexico on ethnic identity
-
 ---
 
 ## Recent publications
@@ -40,10 +41,3 @@ Hunley K, Cabana G. Update to “Beyond serial founder effects: the impact of ad
 
 Hunley K, Edgar H, Healy M, Mosley C. Colonialism and the co-evolution of ethnic and genetic structure in New Mexico. American Journal of Physical Anthropology, 171: 509-519. 2020
 
-{% include images/figure.html
-  image-path="assets/images/Magritte sunset scene in Ice Age Europe, where Neanderthals and modern humans meet.jpeg"
-  class="center"
-  width="60%"
-  caption="AI Generated Image of Neandertals and Modern Humans."
-  alt-text="In the style of Magritte"
-%}
