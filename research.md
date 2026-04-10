@@ -10,7 +10,7 @@ thumbnail: assets/images/AA1zUmx0.jpg
 {% include images/figure.html
   image-path="assets/images/Magritte sunset scene in Ice Age Europe, where Neanderthals and modern humans meet.jpeg"
   class="center"
-  width="40%"
+  width="50%"
   caption="AI Generated Image of Neandertals and Modern Humans."
   alt-text="In the style of Magritte"
 %}
