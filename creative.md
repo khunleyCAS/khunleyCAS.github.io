@@ -1,10 +1,10 @@
 ---
 title: Creative Work
 layout: base
-date: 2025-09-30
+date: 2026-04-10
 homepage: TRUE
 position: 3
-summary: Replace this with a sentence describing this page — what kind of creative work do you make or curate? This appears on the homepage card.
+summary: Strivings never cease
 thumbnail: assets/images/ai-created-kinetic-sculpture.png
 ---
 
@@ -18,9 +18,9 @@ To rename this page, change the `title` field in the front matter above and upda
 
 {% include images/figure.html
   class="left"
-  width="45%"
+  width="50%"
   caption="Add an image that represents this work. Delete this component if you don't need it."
-  image-path="/assets/images/ai-created-kinetic-sculpture.png"
+  image-path="/assets/images/RoadTrip_White Sands_04_klh.jpg"
 %}
 
 Write a paragraph or two introducing what this page is about. This is a good page to experiment with Xanthan's image components — `figure` (standalone, left/right/center) and `figure-wrap` (text wraps around the image) both work well for portfolio-style pages with lots of visual content.
