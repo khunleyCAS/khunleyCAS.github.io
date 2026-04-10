@@ -1,7 +1,7 @@
 ---
 title: Research
 layout: base
-date: 2025-09-30
+date: 2026-04-10
 homepage: TRUE
 position: 1
 summary: I study human origins and dispersals over the past 2 million years
