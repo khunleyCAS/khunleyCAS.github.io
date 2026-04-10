@@ -1,13 +1,13 @@
 ---
-title: Your Name
+title: Keith Hunley
 layout: nav-profile
 date: 2024-12-02
 ---
 
 
-# Your Name
+# Keith Hunley
 
-This is your homepage — the first thing visitors see. Write two or three sentences that introduce who you are and what you do. Think of it as a brief professional statement: your field, your focus, and what makes your work distinctive. Keep it short; the cards below link to your other pages where you can go into depth.
+My research in genetic anthropology examines the persistence of genetic and linguistic structure within our species, despite the fluid nature of population boundaries and the ephemeral nature of individual groups. My publications have provided insights into the initial dispersal of humans from Africa, the non-existence of biological races, the co-evolution of genes and languages, the impact of colonial migration on ethnogenesis, and the psychosocial and cultural determinants of interest and uptake of genetic testing for skin cancer
 
 ---
 
