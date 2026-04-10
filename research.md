@@ -36,3 +36,11 @@ Another current project. Or delete this section if you have just one.
 ## Past Projects
 
 Completed work you want to highlight. Thesis, dissertations, grants, exhibits — whatever best represents your scholarly record.
+
+{% include images/figure.html
+  image-path="assets/images/Magritte sunset scene in Ice Age Europe, where Neanderthals and modern humans meet.jpeg"
+  class="center"
+  width="60%"
+  caption="AI Generated Image of Neandertals and Modern Humans."
+  alt-text="In the style of Magritte"
+%}
