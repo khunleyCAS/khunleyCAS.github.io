@@ -21,7 +21,7 @@ My research examines the persistence of genetic and linguistic structure within 
 ​---
 
 ## Recent Projects
-
+---
 Most recently, I've been exploring the impact of migrations into the area that would become New Mexico on ethnic identity
 ---
 
