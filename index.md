@@ -29,7 +29,7 @@ To add a new card, create a new page and add those fields. To remove a card, del
   image-path="/assets/images/backgrounds/Neandertals-moderns meeting AI.JPG"
   height="50vh"
   box-align="left"
-  title="A hike in the Sandias"
+  title="Neandertals meet their new neighbors"
   text=""
   background-position="center right"
 %}
