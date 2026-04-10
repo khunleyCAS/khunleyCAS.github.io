@@ -8,11 +8,6 @@ summary: I study human origins and dispersals over the past 2 million years
 thumbnail: assets/images/AA1zUmx0.jpg
 ---
 
-This is your Research page. Replace everything below this line with your own content. A research page typically includes an overview of your scholarly interests, descriptions of current and past projects, and any relevant links or media.
-
-The `summary` and `thumbnail` fields in the front matter at the top of this file (between the `---` lines) control the card on your homepage. Update both when you update the page.
-
----
 
 ## Research Interests
 
@@ -25,17 +20,29 @@ My research examines the persistence of genetic and linguistic structure within 
 
 ### Project Name
 
-A short description of what you're working on right now. Include a link if the project has a public presence. If you have an image — a map, a dataset visualization, a photo from fieldwork — add it here using the `figure` or `figure-wrap` component.
-
-### Project Name
-
-Another current project. Or delete this section if you have just one.
+Most recently, I've been exploring the impact of migrations into the area that would become New Mexico on ethnic identity
 
 ---
 
 ## Past Projects
 
-Completed work you want to highlight. Thesis, dissertations, grants, exhibits — whatever best represents your scholarly record.
+Recent publications
+
+Appel N, Edgar H, Daneshvari Berry S, Hunley K. Error and bias in race and ethnicity descriptions in medical examiner records in New Mexico: Consequences for understanding mortality among Hispanic/Latinos. Forensic Science International: Synergy 7. 2023.
+
+Moes E, Willermet C, Hunley K, Ragsdale C, Edgar H. Childhood stress and developmental instability: comparing microscopic enamel defects and cranial fluctuating asymmetry in a colonial Mexican sample. American Journal of Biological Anthropology. 2022 
+
+Riley K, Sussman A, Schofield E, Guest D, Dailey Y, Schwartz M, Buller D, Hunley K, Kaphingst K, Berwick M, Hay J. Effect of superstitious beliefs and risk intuitions on genetic test decisions. Medical Decision Making. 42(3). 2022
+
+Hunley K, Moes, Edgar H, Mosley C, Healy M, Dixon A. Colonialism, ethnogenesis, and biogeographic ancestry in the US Southwest. American Journal of Biological Anthropology. 176:559–571. 2021
+
+Khan E, Kaphingst K., Meyer White K, Sussman A, Guest D, Schofield E, Dailey Y, Robers E, Schwartz M, Li Y, Buller D, Hunley K, Berwick M, Hay J. Comprehension of skin cancer genetic risk feedback in primary care patients. J Community Genet. 1-7. 2021
+
+Hay JL, Zielaskowski K, White K, Kaphingst K, Robers E, Guest D, Sussman A, Talamantes Y, Schwartz M, Rodríguez VM, Li Y, Schofield E, Bigney J, Hunley K, Buller D, Berwick M.  Behavioral and psychological outcomes associated with skin cancer genetic testing in Albuquerque primary care. Cancers. Special Issue Melanoma: Prevention and Molecular Epidemiology. 13(16), 4053. 2021
+
+Hunley K, Cabana G. Update to “Beyond serial founder effects: the impact of admixture and localized gene flow on patterns of regional genetic diversity.” Reissued with new forward in special issue Contributions to Anti-Racist Science. Human Biology. 92: 219-231 2020
+
+Hunley K, Edgar H, Healy M, Mosley C. Colonialism and the co-evolution of ethnic and genetic structure in New Mexico. American Journal of Physical Anthropology, 171: 509-519. 2020
 
 {% include images/figure.html
   image-path="assets/images/Magritte sunset scene in Ice Age Europe, where Neanderthals and modern humans meet.jpeg"
