@@ -18,11 +18,7 @@ thumbnail: assets/images/AA1zUmx0.jpg
 
 My research examines human origins and dispersals over the past 2 million years, with a focus on the persistence of genetic and linguistic structure within our species despite the fluidity of population boundaries and the often ephemeral nature of individual groups. Through collaborative research, I have contributed to new insights into the initial dispersal of humans from Africa, the non-existence of human biological races, the co-evolution of genes and languages, the effects of colonial-era migration on ways that people think about themselves and others, and the psychosocial and cultural factors that shape interest in and uptake of genetic testing for skin cancer.
 
-​---
 
-## Recent Projects
----
-Most recently, I've been exploring the impact on ethnic identity of migrations into the area that would become New Mexico.
 ---
 
 ## Recent publications
