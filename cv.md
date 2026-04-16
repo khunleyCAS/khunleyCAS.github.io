@@ -3,8 +3,8 @@ title: Curriculum Vitae
 layout: base
 homepage: TRUE
 position: 4
-summary: Replace this with a one- or two-sentence summary of your CV — what does it show about you? This text appears on the homepage card.
-thumbnail: assets/images/Augustine_Lateran.jpg
+summary: ""
+thumbnail: assets/images/AI Australopiths.jfif
 thumbnail-position: top
 thumbnail-zoom: 1.3
 ---
