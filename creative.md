@@ -9,11 +9,9 @@ thumbnail: assets/images/ai-created-kinetic-sculpture.png
 ---
 
 
-To rename this page, change the `title` field in the front matter above and update the corresponding entry in `_data/nav-top.yml`.
-
 ---
 
-## Your Section Title
+## Photos
 
 {% include images/figure.html
   class="left"
