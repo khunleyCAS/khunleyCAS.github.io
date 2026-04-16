@@ -82,14 +82,6 @@ My academic research in genetic anthropology examines the persistence of genetic
 - Race and Human Evolution (ANTH 450/550)  
 - Modern Human Origins and Prehistory (ANTH 450/550)  
 
-## Graduate Advising
-
-### PhD Committee Chair
-
-- Jada Benn-Torres, 2005  
-- Bonnie Young, 2012  
-- Meghan Healy, 2019  
-
 # Service
 
 ## University Service
