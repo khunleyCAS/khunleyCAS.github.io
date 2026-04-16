@@ -25,11 +25,11 @@ Evolution is not a threat to your deeply held personal beliefs.
 {% include images/figure.html
   class="right"
   width="45%"
-  caption="Add an image that represents your teaching — a classroom, a field site, a project students built."
-  image-path="/assets/images/great-lecture.jpg"
+  caption="AI generated image of a winter scene in Ice Age Europe where Neanderthals and newly-arrived humans are meeting for the first time"
+  image-path="/assets/images/A winter scene in Ice Age Europe where Neanderthals and modern humans are meeting for the first time.JPG"
 %}
 
-A second paragraph here works well. You can use this space to describe your methods, discuss a particular challenge you've worked through as a teacher, or explain what kinds of learning you prioritize.
+
 
 ---
 
