@@ -4,25 +4,25 @@ layout: base
 date: 2026-04-10
 homepage: TRUE
 position: 1
-summary: I study human origins and dispersals over the past 2 million years
+summary: A brief description of my research and recent publications
 thumbnail: assets/images/AA1zUmx0.jpg
 ---
 {% include images/figure.html
   image-path="assets/images/Magritte sunset scene in Ice Age Europe, where Neanderthals and modern humans meet.jpeg"
   class="center"
   width="50%"
-  caption="AI Generated Image of Neandertals and Modern Humans."
-  alt-text="In the style of Magritte"
+  caption="AI Generated Image of Neandertals and the new neighbors."
+  alt-text="In the style of René Magritte"
 %}
 ## Research Interests
 
-My research examines the persistence of genetic and linguistic structure within our species, despite the fluid nature of population boundaries and the ephemeral nature of individual groups. My collaborative work has provided insights into the initial dispersal of humans from Africa, the non-existence of biological races, the co-evolution of genes and languages, the impact of colonial migration on ethnogenesis, and the psychosocial and cultural determinants of interest and uptake of genetic testing for skin cancer.
+My research examines human origins and dispersals over the past 2 million years, with a focus on the persistence of genetic and linguistic structure within our species despite the fluidity of population boundaries and the often ephemeral nature of individual groups. Through collaborative research, I have contributed to new insights into the initial dispersal of humans from Africa, the non-existence of human biological races, the co-evolution of genes and languages, the effects of colonial-era migration on ways that people think about themselves and others, and the psychosocial and cultural factors that shape interest in and uptake of genetic testing for skin cancer.
 
 ​---
 
 ## Recent Projects
 ---
-Most recently, I've been exploring the impact of migrations into the area that would become New Mexico on ethnic identity
+Most recently, I've been exploring the impact on ethnic identity of migrations into the area that would become New Mexico.
 ---
 
 ## Recent publications
