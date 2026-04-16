@@ -4,8 +4,8 @@ layout: base
 date: 2025-09-30
 homepage: TRUE
 position: 2
-summary: Evolution is fun
-thumbnail: assets/images/great-lecture.jpg
+summary: "Nothing in biology..."
+thumbnail: assets/images/Sanzio_01_Plato_Aristotle.jpg
 ---
 
 My favorite class is Anth 1135: Introduction to Biological Anthropology. It is one of the few science courses taken by non-STEM majors at UNM and often the only formal exposure to evolutionary theory and human evolution. 
