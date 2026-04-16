@@ -12,10 +12,6 @@ thumbnail-zoom: 1.3
 # Your Name
 Email: khunley[at]unm.edu • [Your Website](https://keithhunley.wixsite.com/keith-hunley) 
 
-
-> **WORK FASTER:** You can us an AI assistant to get your CV here in no time. Paste your existing CV into an AI assistant and ask it to reformat to Markdown following the format of your CV page---and give it the URL of your CV page. It handles the tedious formatting work in seconds.
-
-
 ---
 # Keith Hunley
 
