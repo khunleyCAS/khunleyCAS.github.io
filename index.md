@@ -7,20 +7,10 @@ date: 2024-12-02
 
 # Keith Hunley
 
-I am a professor of anthopology and an associate dean in the College of Arts and Sciences at the University of New Mexico. As an anthropologist, I study the persistence of genetic and linguistic structure within our species, despite the fluid nature of population boundaries and the ephemeral nature of individual groups. As a teacher, I offer classes in evolutionary anthropology and human genetics. As an administrator, I assist units in social science and interdisciplinary units with curriculum development, faculty hiring, promotion and tenure, graduate student affairs, and academic program reviews.
+I am a professor of anthropology and an associate dean in the College of Arts and Sciences at the University of New Mexico. As a genetic anthropologist, my research focuses on human origins and dispersals, and I teach courses in evolutionary anthropology and human genetics. In my role as associate dean, I work closely with social science and interdisciplinary units, supporting a wide range of administrative and academic initiatives.
 
 ---
 
-The cards below are generated automatically from your other pages. Each page that has `homepage: true` in its front matter will appear here as a card. The card's title, summary text, and thumbnail image all come from that page's front matter:
-
-```yaml
-homepage: TRUE
-summary: A sentence or two describing this page — appears on the card.
-thumbnail: assets/images/your-image.jpg
-position: 1   # controls the order cards appear (lower numbers first)
-```
-
-To add a new card, create a new page and add those fields. To remove a card, delete `homepage: TRUE` from that page's front matter. To reorder cards, adjust the `position` values.
 
 {% assign essays = site.pages | where: "homepage", true %}
 {% include nav/card-stack.html cards = essays %}
