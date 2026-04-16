@@ -40,6 +40,7 @@ thumbnail: assets/images/ai-created-kinetic-sculpture.png
   caption="Cyanotype series 2"
   image-path="/assets/Hunley_010_Edited.jpg"
 %}
+
 ---
 
 ## Projects or Works
