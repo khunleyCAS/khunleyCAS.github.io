@@ -23,7 +23,7 @@ I hope students leave my classes understanding:
 - Evolution is not a threat to your deeply held personal beliefs.
 
 {% include images/figure.html
-  class="right"
+  class="center"
   width="45%"
   caption="AI generated image of a winter scene in Ice Age Europe where Neanderthals and newly-arrived humans are meeting for the first time"
   image-path="/assets/images/A winter scene in Ice Age Europe where Neanderthals and modern humans are meeting for the first time.JPG"
