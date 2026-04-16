@@ -8,17 +8,17 @@ summary: Evolution is fun
 thumbnail: assets/images/great-lecture.jpg
 ---
 
-My favoriate class is Anth 1135 Introduction to Biological Anthropology. It is one of the few science courses taken by non-STEM majors at UNM and often the only formal exposure to evolutionary theory and human evolution. 
+My favorite class is Anth 1135: Introduction to Biological Anthropology. It is one of the few science courses taken by non-STEM majors at UNM and often the only formal exposure to evolutionary theory and human evolution. 
 
 ---
 
 ## Teaching Philosophy
 
-Message I hope students to leave my classes with?
+I hope students leave my classes understanding:
 “Nothing in biology makes sense except in the light of evolution."
-We can never know the truth (and we should be suspicious of anyone who claims to know it), but through the application of a scientific method, we can learn what's not true and, in doing so, slowly converge on a better understanding of the universe.
+We can never know the 'truth,' but through the application of a scientific method, we can learn what's not true and, in doing so, slowly converge on a better understanding of the universe.
 We cannot solve the problems facing our species unless we understand how evolution has shaped our bodies and minds.
-You, the student, as a newly certified expert in evolutionary theory, have the knowledge and skill needed to distinguish between competing explanations for natural phenomena.
+You, as a newly certified expert in evolutionary theory, have the knowledge and skill needed to distinguish between competing ideas.
 Even if you don’t fully believe in evolution, you understand how evolutionary biologists and other scientists think about the world.
 Evolution is not a threat to your deeply held personal beliefs.
 
