@@ -15,12 +15,12 @@ My favorite class is Anth 1135: Introduction to Biological Anthropology. It is o
 ## Teaching Philosophy
 
 I hope students leave my classes understanding:
-“Nothing in biology makes sense except in the light of evolution."
-We can never know the 'truth,' but through the application of a scientific method, we can learn what's not true and, in doing so, slowly converge on a better understanding of the universe.
-We cannot solve the problems facing our species unless we understand how evolution has shaped our bodies and minds.
-You, as a newly certified expert in evolutionary theory, have the knowledge and skill needed to distinguish between competing ideas.
-Even if you don’t fully believe in evolution, you understand how evolutionary biologists and other scientists think about the world.
-Evolution is not a threat to your deeply held personal beliefs.
+-“Nothing in biology makes sense except in the light of evolution;"
+-We can never know the 'truth,' but through the application of a scientific method, we can learn what's not true and, in doing so, slowly converge on a better understanding of the universe;
+-We cannot solve the problems facing our species unless we understand how evolution has shaped our bodies and minds;
+-You, as a newly certified expert in evolutionary theory, have the knowledge and skill needed to distinguish between competing ideas;
+-Even if you don’t fully believe in evolution, you understand how evolutionary biologists and other scientists think about the world;
+-Evolution is not a threat to your deeply held personal beliefs.
 
 {% include images/figure.html
   class="right"
