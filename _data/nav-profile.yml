@@ -4,18 +4,15 @@ settings:
 image_url: /assets/images/profile/eduardo-goody-MQ-Rkg64jf4-unsplash.jpg
 alt_text: "Your profile photo"
 name: Your Name
-description: Replace this with a short bio — one or two sentences describing who you are and what you do. This appears under your photo in the sidebar.
+description: I am a Professor of Anthropology and an Associate Dean in the College of Arts and Sciences at the Univeristy of New Mexico
 
 links:
   - title: Personal Website
-    url: https://example.com
+    url: https://keithhunley.wixsite.com/keith-hunley
     icon: fas fa-globe
   - title: GitHub
-    url: https://github.com
+    url: https://khunleycas.github.io/
     icon: fab fa-github
-  - title: Twitter
-    url: https://twitter.com
-    icon: fab fa-twitter
   - title: Email
-    url: mailto:contact@example.com
+    url: mailto:khunley[at]unm,edu
     icon: fas fa-envelope
